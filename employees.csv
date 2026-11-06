@@ -1,0 +1,6 @@
+Employee_ID,Name,Age,Gender,Department,Salary,City,Experience,Bonus
+101,Rahul,25,Male,IT,35000,Delhi,2,3500.0
+102,Aman,28,Male,HR,45000,Mumbai,5,4500.0
+103,Priya,24,Female,Finance,30000,Lucknow,1,3000.0
+104,Vikas,22,Male,IT,25000,Kanpur,0,2500.0
+105,Neha,26,Female,Marketing,40000,Noida,3,4000.0
